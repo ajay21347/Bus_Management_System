@@ -1,0 +1,16 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Dehradun Bus Stand,30.3165,78.0322
+2,Haridwar Bus Stand,29.9457,78.1642
+3,Rishikesh Bus Stand,30.0869,78.2676
+4,Mussoorie Library Point,30.4595,78.0667
+5,Nainital Bus Depot,29.3919,79.4542
+6,Haldwani Bus Stand,29.2183,79.5120
+7,Kathgodam Junction,29.2677,79.5126
+8,Rudrapur Bus Stand,28.9810,79.4006
+9,Kashipur Bus Stand,28.8919,78.9335
+10,Kotdwar Bus Stand,29.7606,78.4991
+11,Roorkee Bus Stand,29.8543,77.8880
+12,Pantnagar Bus Stand,29.0227,79.4906
+13,Ranikhet Bus Stand,29.6380,79.4300
+14,Almora Bus Stand,29.5972,79.6592
+15,Pauri Bus Stand,30.1513,78.7786

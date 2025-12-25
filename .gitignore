@@ -1,0 +1,20 @@
+#====Java====
+*.class
+*.log
+
+#====Build folders====
+out/
+bin/
+target/
+
+#====IDE folders====
+.idea/
+.vscode/
+
+#====OS files====
+.DS_Store
+Thumbs.db
+
+#====Generated files====
+*.csv
+*.pdf

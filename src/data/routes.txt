@@ -1,0 +1,11 @@
+route_id,route_short_name,route_long_name
+201,R1,Dehradun to Haridwar
+202,R2,Dehradun to Rishikesh via Mussoorie
+203,R3,Dehradun to Nainital (via Kotdwar, Haldwani)
+204,R4,Nainital to Kathgodam
+205,R5,Rudrapur to Haldwani
+206,R6,Kashipur to Rudrapur
+207,R7,Roorkee to Dehradun
+208,R8,Pantnagar to Haldwani
+209,R9,Ranikhet to Almora
+210,R10,Pauri to Kotdwar
